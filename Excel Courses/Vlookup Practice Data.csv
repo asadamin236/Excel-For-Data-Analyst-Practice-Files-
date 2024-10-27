@@ -1,0 +1,18 @@
+vlookup														
+														
+Name	Gender	Age	Class	Unit Test 1	Unit Test 2	Final Test	Total Marks	year						
+Vidya	F	11	6	88	90	92	270	2022						
+Hari	M	11	6	91	81	95	267	2020						
+Arjun	M	11	5	82	83	91	256	2022						
+Madhav	M	12	7	86	92	89	267	2022						
+Vrinda	F	14	8	91	96	98	285	2023						
+Indu	F	14	8	90	86	89	265	2021				Name	Total Marks	Year
+Gopal	M	14	8	70	75	79	224	2023				Gopi	276	2021
+Keshav	M	15	9	87	89	96	272	2020				Champa	247	2022
+Champa	F	15	8	81	78	88	247	2022				Lalita	252	2020
+Gopi	F	16	10	88	92	96	276	2021				Visakha	242	2023
+Sudevi	F	16	10	81	80	87	248	2022				Abhimanyu	244	2022
+Abhimanyu	M	16	10	84	79	81	244	2022						
+Hari	M	16	10	82	81	80	243	2021						
+Visakha	F	16	10	70	87	85	242	2023						
+Lalita	F	17	10	70	90	92	252	2020						
